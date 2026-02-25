@@ -101,6 +101,7 @@ An Awesome List About Everything Crypto Currency.
 - [Mobula UI](https://github.com/MobulaFi/mobula-ui): Open-source coin & portfolio tracking platform
 - [RP2](https://github.com/eprbell/rp2): Privacy-focused, free, open-source crypto tax calculator supporting multiple countries
 - [Hive Intelligence](https://github.com/hive-intel/hive-crypto-mcp) - Hive Intelligence: Ultimate cryptocurrency MCP for AI assistants with unified access to crypto, DeFi, and Web3 analytics. hive's remote mcp server guide (https://hiveintelligence.xyz/crypto-mcp).
+- [Codex](https://codex.io/) - Blockchain data API providing real-time and historical token data across 70+ networks via GraphQL.
 
 ## News
 
@@ -113,6 +114,7 @@ An Awesome List About Everything Crypto Currency.
 
 ## Statistics
 
+- [Defined](https://defined.fi/) - Real-time DEX trading terminal with charts, token explorer, and wallet tracking across multiple chains.
 - [TradingView](https://www.tradingview.com/?t=102319ad37cf1381a49c8abaf5e42b): Web service and big social network for traders, with a platform for technical analysis with free stock charts, stock quotes and trade ideas.
 - A Guide to Trading Cryptocurrency Part [1](https://btcmanager.com/part-1-candlesticks-and-the-fibonacci-sequence/), [2](https://btcmanager.com/a-guide-to-trading-cryptocurrencies-part-2-ichimoku-kinko-hyo/), [3](https://btcmanager.com/guide-to-trading-cryptocurrency-pt-3-bill-williams-method/), [4](https://btcmanager.com/a-guide-to-trading-cryptocurrency-pt-4-renko-charts/), [5](https://btcmanager.com/a-guide-to-trading-cryptocurrency-pt-5-bollinger-bands/), [6](https://btcmanager.com/guide-trading-cryptocurrency-part-6-moving-averages/): Introduction into statistics and multiple basic trading strategies.
 - [The Ultimate Beginner's Guide to Forex Backtesting](https://www.tradingheroes.com/forex-backtesting-guide/) on Trading Heroes: Introduction into backtesting a trading strategy.
